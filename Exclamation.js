@@ -12,7 +12,7 @@ function remove(str) {
 }
  
 //  another solution  
-// this answer with using regular exeprtions
+// this answer with using regular exeprtionsx
 
 function remove2(str) {
     return str.replace(/!$/gi,"")
